@@ -1,3 +1,4 @@
 [11 задание, полуочевки (132 слова)] https://raw.githubusercontent.com/lodo4nik/rus_ege/refs/heads/main/11_grob.txt
 [9 задание, полуочевки (88 слов)] https://raw.githubusercontent.com/lodo4nik/rus_ege/refs/heads/main/9_bodya.txt
 [9 задание, контекст (31 слово)] https://raw.githubusercontent.com/lodo4nik/rus_ege/refs/heads/main/context.txt
+[10 задание, пре- при- (113 слов)] https://raw.githubusercontent.com/lodo4nik/rus_ege/refs/heads/main/10_pre_pri.txt
