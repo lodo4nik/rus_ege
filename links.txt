@@ -4,3 +4,4 @@
 [10 задание, пре- при- (113)] https://raw.githubusercontent.com/lodo4nik/rus_ege/refs/heads/main/10_pre_pri.txt
 [4 задание (220)] https://raw.githubusercontent.com/lodo4nik/rus_ege/refs/heads/main/stresses.txt
 [Паронимы (371)] https://raw.githubusercontent.com/lodo4nik/rus_ege/refs/heads/main/paronym.txt
+[Мутные ударения (39)] https://raw.githubusercontent.com/lodo4nik/rus_ege/refs/heads/main/mutnie_udarenia.txt
